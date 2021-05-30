@@ -75,19 +75,19 @@ end
 function create_self( )
   self = {
     names = {
-    "solid",
-    "سلید",
-    "سولید",
-    "سعید",
-    "saeed",
-    "saeid"
+    "ممد",
+    "ممی",
+    "داش",
+    "حاجی",
+    "محمد",
+    "کونی"
     },
     answers = {
     "وات؟ :/",
-    "بلی؟",
-    "بفرما",
-    "بوگوی :|",
-    "جونم؟",
+    "چی میخوای ",
+    "عا",
+    "کیر :|",
+    "بنال",
     "جونز",
     "ژون؟ :/"
     },
@@ -128,7 +128,7 @@ function create_config( )
 		"tools",
      "fun"
 	},
-    sudo_users = {157059515},
+    sudo_users = {410083841},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
@@ -138,9 +138,9 @@ An fun bot based on BDReborn
 》https://github.com/BeyondTeam/BDSelf 
 
 》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer & Sponser《
-》@ToOfan ➣ Developer《
+》@اhate_self ➣ Founder & Developer《
+》@اhate_self ➣ Developer & Sponser《
+》@اhate_self ➣ Developer《
 
 》Special thanks to :
 》@kuncen
